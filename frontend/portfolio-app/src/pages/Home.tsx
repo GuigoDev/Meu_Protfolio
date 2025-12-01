@@ -110,17 +110,6 @@ export const Home = () => {
         </div>
       </section>
 
-      <section className="projects-section" id="contact">
-        <div className="container">
-          <h2 className="section-title">Contato</h2>
-          <div className="section-divider"></div>
-          <p className="loading-text">Entre em contato comigo!</p>
-          <div style={{ textAlign: 'center', marginTop: '2rem' }}>
-            {/* Lembre-se de colocar seu e-mail real aqui */}
-            <a href="mailto:guilherme.romero074@gmail.com" className="btn btn-primary">Enviar E-mail</a>
-          </div>
-        </div>
-      </section>
     </div>
   );
 };
