@@ -30,7 +30,7 @@ export const Footer = () => {
             <div className="contact-item">
               <span className="contact-label">Linkedin:</span>
               <a 
-                href="https://www.linkedin.com/in/seu-linkedin" 
+                href="https://www.linkedin.com/in/guilherme-romero-06586a289/" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="contact-value"
@@ -42,7 +42,7 @@ export const Footer = () => {
             <div className="contact-item whatsapp-item">
               <span className="contact-label">Contato pelo WhatsApp:</span>
               <a 
-                href="https://wa.me/55SEUNUMERO" 
+                href="https://wa.me/5541984486364?text=Olá Guilherme, vi seu portfólio e gostaria de conversar!" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="whatsapp-btn"
