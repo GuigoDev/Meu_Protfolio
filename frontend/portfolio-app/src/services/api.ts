@@ -1,5 +1,5 @@
 import axios from 'axios';
-import type { Project, Skill, Experience, GitHubStats } from '../types';
+import type { Project, Skill, Experience, GitHubStats, GitHubRepoDTO } from '../types';
 
 const baseURL = import.meta.env.PROD
   ? 'https://meu-protfolio.onrender.com'
