@@ -8,8 +8,7 @@ export const Footer = () => {
   const handleCopyEmail = () => {
     navigator.clipboard.writeText(email);
     setShowToast(true);
-    
-    // Esconde o toast após 3 segundos
+
     setTimeout(() => {
       setShowToast(false);
     }, 3000);
